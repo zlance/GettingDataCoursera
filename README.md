@@ -1,6 +1,7 @@
 # Getting Data Coursera Project
 
 The run_analysis.R
+
 1. Takes the raw files from the study 
 2. Loads them into the memory with feature file as a header and merges the test and training sets 
 3. Loads the activity and subject files and adds them to the merged set in step 2
